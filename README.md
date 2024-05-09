@@ -5,4 +5,4 @@
 
 [![Top Langs](https://killerkiara-github-readme-stats.vercel.app/api/top-langs/?username=killerkiara&theme=outrun&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=killerkiara&theme=tokyonight&exclude_days=Fri,Sat,Sun)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=killerkiara&theme=radical&exclude_days=Fri,Sat,Sun)](https://git.io/streak-stats)
